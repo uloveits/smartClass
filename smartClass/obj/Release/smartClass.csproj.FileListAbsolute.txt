@@ -1,0 +1,11 @@
+E:\uloveits\smartClass\smartClass\bin\Release\smartClass.exe.config
+E:\uloveits\smartClass\smartClass\bin\Release\smartClass.exe
+E:\uloveits\smartClass\smartClass\bin\Release\smartClass.pdb
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.csproj.ResolveComReference.cache
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.Form1.resources
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.Properties.Resources.resources
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.csproj.GenerateResource.cache
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.csproj.CoreCompileInputs.cache
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.exe
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.pdb
+E:\uloveits\smartClass\smartClass\obj\Release\smartClass.csprojAssemblyReference.cache

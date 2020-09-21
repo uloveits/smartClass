@@ -1,0 +1,11 @@
+E:\uloveits\smartClass\smartClass\bin\Debug\smartClass.exe.config
+E:\uloveits\smartClass\smartClass\bin\Debug\smartClass.exe
+E:\uloveits\smartClass\smartClass\bin\Debug\smartClass.pdb
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.csprojAssemblyReference.cache
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.Form1.resources
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.Properties.Resources.resources
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.csproj.GenerateResource.cache
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.csproj.CoreCompileInputs.cache
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.exe
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.pdb
+E:\uloveits\smartClass\smartClass\obj\Debug\smartClass.csproj.ResolveComReference.cache
